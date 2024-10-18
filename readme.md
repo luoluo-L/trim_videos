@@ -1,6 +1,8 @@
-# readme for crop video
+# readme for crop video using ffmpeg
 
-run the following command in terminal:
+Dependency:[ffmpeg](https://www.ffmpeg.org/)
+
+Run the following command in terminal:
 
 ```
 .\cut_videos_batchprocess.bat YOUR_CSV_PATH
