@@ -1,6 +1,6 @@
-# readme for crop video using ffmpeg
+# Batch processing for cropping videos
 
-Dependency:[ffmpeg](https://www.ffmpeg.org/)
+Dependency: [ffmpeg](https://www.ffmpeg.org/)
 
 Run the following command in terminal:
 
