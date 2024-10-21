@@ -1,4 +1,4 @@
-# Batch processing for cropping videos
+# Fast & Efficient Batch processing for cropping videos
 
 Dependency: [ffmpeg](https://www.ffmpeg.org/)
 
